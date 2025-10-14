@@ -1,0 +1,122 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="FR" tvg-id="daznfrance/event8" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Oilers @ Rangers (Away Broadcast) (2025-10-15 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event8/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:2 group-title="FR" tvg-id="daznfrance/event1" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Kraken @ Canadiens (Away Broadcast) (2025-10-15 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event1/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:3 group-title="FR" tvg-id="daznfrance/event3" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Kraken @ Canadiens (In French) (2025-10-15 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event3/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:4 group-title="FR" tvg-id="daznfrance/event4" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Predators @ Maple Leafs (2025-10-15 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event4/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:5 group-title="FR" tvg-id="daznfrance/event5" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Kraken @ Canadiens (2025-10-15 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event5/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:6 group-title="FR" tvg-id="daznfrance/event6" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Oilers @ Rangers (2025-10-15 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event6/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:7 group-title="FR" tvg-id="daznfrance/event7" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Lightning @ Capitals (2025-10-15 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event7/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:8 group-title="FR" tvg-id="daznfrance/event2" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Predators @ Maple Leafs (Away Broadcast) (2025-10-15 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event2/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:9 group-title="FR" tvg-id="daznfrance/event9" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Golden Knights @ Flames (Away Broadcast) (2025-10-15 03:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event9/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:10 group-title="FR" tvg-id="daznfrance/event10" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Wild @ Stars (2025-10-15 03:30:00)
+http://85.209.176.90:1233/stream/daznfrance/event10/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:11 group-title="FR" tvg-id="daznfrance/event11" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Hurricanes @ Sharks (2025-10-15 04:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event11/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:12 group-title="FR" tvg-id="daznfrance/event12" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Hurricanes @ Sharks (Away Broadcast) (2025-10-15 04:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event12/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:13 group-title="FR" tvg-id="daznfrance/event13" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Penguins @ Ducks (2025-10-15 04:30:00)
+http://85.209.176.90:1233/stream/daznfrance/event13/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:14 group-title="FR" tvg-id="daznfrance/event14" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Penguins @ Ducks (Away Broadcast) (2025-10-15 04:30:00)
+http://85.209.176.90:1233/stream/daznfrance/event14/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:15 group-title="FR" tvg-id="daznfrance/event15" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Conway vs. Liddard: Press Conference (2025-10-15 14:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event15/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:16 group-title="FR" tvg-id="daznfrance/event16" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Round of 16 - Erigaisi vs. Lazavik (2025-10-15 17:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event16/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:17 group-title="FR" tvg-id="daznfrance/event17" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Grand Sumo Tournament - Day 1 (2025-10-15 20:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event17/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:18 group-title="FR" tvg-id="daznfrance/event18" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Senators @ Sabres (2025-10-16 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event18/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:19 group-title="FR" tvg-id="daznfrance/event19" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Panthers @ Red Wings (2025-10-16 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event19/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:20 group-title="FR" tvg-id="daznfrance/event20" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Blackhawks @ Blues (2025-10-16 03:30:00)
+http://85.209.176.90:1233/stream/daznfrance/event20/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:21 group-title="FR" tvg-id="daznfrance/event21" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Flames @ Mammoth (2025-10-16 03:30:00)
+http://85.209.176.90:1233/stream/daznfrance/event21/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:22 group-title="FR" tvg-id="daznfrance/event22" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Conway vs. Liddard: Weigh-In (2025-10-16 14:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event22/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:23 group-title="FR" tvg-id="daznfrance/event23" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] The City's Cup, New York - Day 1 (2025-10-16 16:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event23/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:24 group-title="FR" tvg-id="daznfrance/event24" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Red Bull Rampage - Women's Final (2025-10-16 18:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event24/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:25 group-title="FR" tvg-id="daznfrance/event25" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Grand Sumo Tournament - Day 2 (2025-10-16 20:30:00)
+http://85.209.176.90:1233/stream/daznfrance/event25/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:26 group-title="FR" tvg-id="daznfrance/event26" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Round of 16 - So vs. Keymer (2025-10-16 20:30:00)
+http://85.209.176.90:1233/stream/daznfrance/event26/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:27 group-title="FR" tvg-id="daznfrance/event28" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Oilers @ Islanders (Away Broadcast) (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event28/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:28 group-title="FR" tvg-id="daznfrance/event27" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Avalanche @ Blue Jackets (Away Broadcast) (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event27/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:29 group-title="FR" tvg-id="daznfrance/event29" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Panthers @ Devils (Away Broadcast) (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event29/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:30 group-title="FR" tvg-id="daznfrance/event30" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Jets @ Flyers (Away Broadcast) (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event30/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:31 group-title="FR" tvg-id="daznfrance/event31" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Predators @ Canadiens (Away Broadcast) (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event31/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:32 group-title="FR" tvg-id="daznfrance/event32" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Kraken @ Senators (Away Broadcast) (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event32/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:33 group-title="FR" tvg-id="daznfrance/event33" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Rangers @ Maple Leafs (Away Broadcast) (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event33/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:34 group-title="FR" tvg-id="daznfrance/event34" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Rangers @ Maple Leafs (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event34/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:35 group-title="FR" tvg-id="daznfrance/event35" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Predators @ Canadiens (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event35/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:36 group-title="FR" tvg-id="daznfrance/event36" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Kraken @ Senators (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event36/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:37 group-title="FR" tvg-id="daznfrance/event37" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Panthers @ Devils (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event37/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:38 group-title="FR" tvg-id="daznfrance/event38" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Jets @ Flyers (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event38/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:39 group-title="FR" tvg-id="daznfrance/event39" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] Avalanche @ Blue Jackets (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event39/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
+#EXTINF:40 group-title="FR" tvg-id="daznfrance/event40" tvg-logo="" provider="FR" provider-logo="" provider-type="iptv",[FR] East Carolina @ Tulsa (2025-10-17 01:00:00)
+http://85.209.176.90:1233/stream/daznfrance/event40/master.m3u8?u=DaznFR&p=4b32994b5d15be91fa611426f3538e547f6bc0fb6fff3b508be98fee0a978fe6
+
